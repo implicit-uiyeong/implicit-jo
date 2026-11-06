@@ -1,0 +1,10 @@
+/index.html
+  Cache-Control: no-cache, max-age=0, must-revalidate
+/
+  Cache-Control: no-cache, max-age=0, must-revalidate
+/sw.js
+  Cache-Control: no-cache, max-age=0, must-revalidate
+/registerSW.js
+  Cache-Control: no-cache, max-age=0, must-revalidate
+/work.json
+  Cache-Control: no-cache, max-age=0, must-revalidate
