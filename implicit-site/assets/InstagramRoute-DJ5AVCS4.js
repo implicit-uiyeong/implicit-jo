@@ -1,0 +1,1 @@
+import{j as i,aj as r}from"./index-BniuXGFf.js";import{MymyInstagram as s}from"./Apps-DT42gzPg.js";import"./arrow-left-pjmhWdB5.js";import"./menu-B67LEQFx.js";function j(t){return t.items.some(m=>m.id.startsWith("implicit-ins-"))?i.jsx(r,{...t}):i.jsx(s,{...t})}export{j as InstagramRoute};
